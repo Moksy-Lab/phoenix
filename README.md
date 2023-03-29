@@ -37,11 +37,11 @@ Contact us
 
 ## Live site Preview 
 
-[Illinois](https://moksy.com/templates/illinois/?project_id=16466)
+[Phoenix](https://moksy.com/templates/phoenix/?project_id=17644)
 
 
 ## Github Preview 
-[Illinois](https://moksy-lab.github.io/illinois/)
+[Phoenix](moksy-lab.github.io/phoenix/)
 
 
 ## Like our project ? 
