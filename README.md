@@ -41,7 +41,7 @@ Contact us
 
 
 ## Github Preview 
-[Phoenix](moksy-lab.github.io/phoenix/)
+[Phoenix](https://moksy-lab.github.io/phoenix/)
 
 
 ## Like our project ? 
