@@ -23,7 +23,6 @@ body {
  padding: 0;
  box-sizing: border-box;
  font-family: var(--primary-font);
- overflow-x: hidden;
 }
 
 section{
@@ -336,15 +335,16 @@ p {
 
 /* #bannu(9aaf5d9db46220bf) #css starts  */
 .bannerb9aaf5d9db46220bf .button {
-    background-color: rgb(79, 57, 99);
-    color: wheat
+    background-color: #CD113B;
+    color: rgb(255, 255, 255)
 }
 
 .bannerb9aaf5d9db46220bf .button:hover {
-    color: wheat
+    color: #FFA900
 }
 .bannerb9aaf5d9db46220bf .background{
     background-image: url(https://images.pexels.com/photos/1546901/pexels-photo-1546901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
     padding: 50px
 }
 /* #bannu(9aaf5d9db46220bf) #css ends  */
@@ -529,6 +529,7 @@ p {
     }
     .bannerb9ce7550acbf1ce9f .background{
         background-image: url(http://rb.gy/5rpuxs);
+        background-size: cover;
         padding: 50px
     }
     /* #balu(b9ce7550acbf1ce9f) #css ends  */    
@@ -624,6 +625,7 @@ p {
         }
     
         .footerb5f31747c48ae942 footer {
+            overflow: hidden;
             background: #ffffff
         }
     
