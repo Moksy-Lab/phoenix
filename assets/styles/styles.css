@@ -358,8 +358,7 @@ p {
     .serviced04850298895e70a .h-p-group h2 {
         margin: 0;
         padding-top: 30px;
-        font-weight: 700;
-        font-size: 32px;
+        font-size: 44px;
         text-align: center
     }
 
@@ -397,11 +396,11 @@ p {
     }
 
     .serviced04850298895e70a .services-block-box .fa-tablet,
-    .serviced04850298895e70a .services-block-box .fa-lemon-o {
+    .serviced04850298895e70a .services-block-box .fa-paperclip {
         margin-right: 30px
     }
 
-    .serviced04850298895e70a .services-block-box .fa-folder-o {
+    .serviced04850298895e70a .services-block-box .fa-biking {
         margin-right: 25px
     }
 
@@ -474,7 +473,9 @@ p {
         border-radius: 5px;
         overflow: hidden
     }
-
+    .aboutd390a380620aac0e .StockPhotos{
+        font-size: 20px;
+    }
     .aboutd390a380620aac0e .video_card::before {
         content: "";
         position: absolute;
