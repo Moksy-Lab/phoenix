@@ -34,6 +34,19 @@ Contact us
 - [Unsplash](https://unsplash.com/)
 - [Uifaces](http://uifaces.com/)
 
+## Image Preview
+
+
+[Desktop]<a href="https://example.com"><img src="https://i.ibb.co/qNrGxCg/Phoenix.png" alt="Illinois"></a>
+
+
+[Mobile]
+
+
+<a href="https://example.com"><img src="https://i.ibb.co/MCX8bzf/PhoenixM.png" alt="Illinois"></a>
+
+
+
 
 ## Live site Preview 
 
