@@ -253,17 +253,13 @@ p {
     /* #annu(eb092de7c8df0610) #css ends  */
 
  /* #bartholomew(ec6cc8e186617bf6) #css starts  */
-.blogec6cc8e186617bf6 .blog-home3 {
-  font-family: "Montserrat", sans-serif;
-  color: #8d97ad;
+.blogec6cc8e186617bf6 .blog-home3 h3{
+  color: #CD113B;
+  font-size: 44px;
   font-weight: 300
 }
 
-.blogec6cc8e186617bf6 .blog-home3 h3,
-.blogec6cc8e186617bf6 .blog-home3 h5,
-.blogec6cc8e186617bf6 .blog-home3 h6 {
-  color: #3e4555
-}
+
 
 .blogec6cc8e186617bf6 .blog-home3 h5 {
     line-height: 22px;
@@ -287,8 +283,7 @@ p {
 }
 
 .blogec6cc8e186617bf6 .blog-home3 .subtitle {
-  color: #8d97ad;
-  line-height: 24px
+ font-size: 19px;
 }
 
 .blogec6cc8e186617bf6 .blog-home3 .card.card-shadow {
@@ -318,6 +313,7 @@ p {
 }
 
 .blogec6cc8e186617bf6 .blog-home3 .date-pos {
+  color: #CD113B;
   font-size: 12px
 }
 
